@@ -3,10 +3,9 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081376900646 HEMAT JAN LUPA️S
-〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
-〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
+️ NOMOR : 087781350596 HEMAT JAN LUPA️
+〽️ IG : ( @opqrstuvwxyzaa ) JAN LUPA FOLLOW 〽️
+〽️ TIK TOK : ( ❌ ) JAN LUPA FOLLOW 〽️
 
 
 
@@ -250,32 +249,6 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ╔══════════════════╗
 ║           FUN MENU                     ║
 ╠══════════════════╝
-║│${prefix}puki「 ngatain 」
-║│${prefix}bego「 ngatain 」
-║│${prefix}tolol「 ngatain 」
-║│${prefix}pinter「 ngatain 」
-║│${prefix}pintar「 ngatain 」
-║│${prefix}bodoh「 ngatain 」
-║│${prefix}asu「 ngatain 」
-║│${prefix}gay「 ngatain 」
-║│${prefix}lesby「 ngatain 」
-║│${prefix}bajingan「 ngatain 」
-║│${prefix}jancok「 ngatain 」
-║│${prefix}anjing「 ngatain 」
-║│${prefix}ngentod「 ngatain 」
-║│${prefix}ngentot「 ngatain 」
-║│${prefix}monyet「 ngatain 」
-║│${prefix}mastah「 ngatain 」
-║│${prefix}newbie「 ngatain 」
-║│${prefix}bangsat「 ngatain 」
-║│${prefix}bangke「 ngatain 」
-║│${prefix}sange「 ngatain 」
-║│${prefix}sangean「 ngatain 」
-║│${prefix}dakjal「 ngatain 」
-║│${prefix}horny「 ngatain 」
-║│${prefix}wibu「 ngatain 」
-║│${prefix}puki「 ngatain 」
-║│${prefix}pantek「 ngatain 」
 ║│${prefix}terganteng「 paling ganteng」
 ║│${prefix}jadian「 cie jadian 」
 ║│${prefix}tercantik「 paling cantik 」
@@ -287,7 +260,6 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}seberapagay「 hayo gay ya 」
 ║│${prefix}watak「 gw tau lu baik 」
 ║│${prefix}hobby「 pasti masak  」
-║│${prefix}ewe「 Tobat gobloc」
 ║│${prefix}bagaimanaka「 Yntks 」
 ╔══════════════════╗
 ║          GABUT MENU                 ║
@@ -327,7 +299,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *VizoBotz*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
